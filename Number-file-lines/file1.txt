@@ -1,0 +1,24 @@
+START 200
+READ N
+LOAD ZERO
+STORE COUNT
+STORE SUM
+LOOP: READ X
+LOAD X
+ADD SUM
+LOAD COUNT
+ADD ONE
+STORE COUNT
+SUB N
+JZ OUTER
+JMP LOOP
+OUTER: WRITE SUM
+STOP
+ENDP ;assembler directive. must be ignored by assembler
+ZERO CONST 0
+ONE CONST 1
+SUM DB ?
+COUNT DB ?
+N DB ?
+X DB ?
+END ;assembler directive. must be ignored by assembler
