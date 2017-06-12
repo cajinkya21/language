@@ -22,3 +22,23 @@ COUNT DB ?
 N DB ?
 X DB ?
 END ;assembler directive. must be ignored by assembler
+sadasd
+dsa
+das
+das
+dasdas
+dsad
+asd
+sd
+dasdsa
+
+asddas
+dsaasd
+asddsa
+dasdasassddas
+sdad
+asddsad
+asda
+asdsd
+ad
+s

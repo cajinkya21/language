@@ -18,3 +18,13 @@ int main(){
 	fclose(yyin);
 	return 0;
 }
+asddas
+dsaasd
+asddsaasddas
+dsaasd
+asddsa
+asddas
+dsaasd
+asddsaasddas
+dsaasd
+asddsa
